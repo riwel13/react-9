@@ -1,0 +1,11 @@
+.sticker {
+    list-style-type: none;
+    background-color: rgba(240, 248, 255, 0.418);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.sticker img {
+    height: 150px;
+    width: 150px;
+}

@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.containerS {
+    display: flex;
+    
+    height: fit-content;
+    border-radius: 20px;
+    padding: 30px;
+    flex-wrap: wrap;
+    margin: 50px;
+    gap: 10px;
+    justify-content: center;
+    background: #c94b68;
+background: linear-gradient(90deg, rgba(201, 75, 104, 1) 0%, rgba(237, 218, 218, 1) 0%, rgba(112, 43, 43, 1) 100%);
+
+
+}
